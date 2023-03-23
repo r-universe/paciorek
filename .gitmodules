@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bigGP"]
+	path = bigGP
+	url = https://github.com/cran/bigGP
+	shallow = true
+	registered = true
+[submodule "nimble"]
+	path = nimble
+	url = https://github.com/cran/nimble
+	shallow = true
+	registered = true
+[submodule "nimbleSMC"]
+	path = nimbleSMC
+	url = https://github.com/cran/nimbleSMC
+	shallow = true
+	registered = true
