@@ -8,6 +8,12 @@
 	url = https://github.com/cran/bigGP
 	shallow = true
 	registered = true
+[submodule "climextRemes"]
+	path = climextRemes
+	url = https://bitbucket.org/lbl-cascade/climextremes-dev
+	shallow = true
+	subdir = climextRemes
+	registered = true
 [submodule "nimble"]
 	path = nimble
 	url = https://github.com/cran/nimble
