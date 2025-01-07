@@ -9,9 +9,3 @@
 	path = climextRemes
 	url = https://bitbucket.org/lbl-cascade/climextremes-dev
 	subdir = climextRemes
-[submodule "nimble"]
-	path = nimble
-	url = https://github.com/cran/nimble
-[submodule "nimbleSMC"]
-	path = nimbleSMC
-	url = https://github.com/cran/nimbleSMC
