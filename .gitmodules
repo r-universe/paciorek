@@ -4,7 +4,8 @@
 	branch = HEAD
 [submodule "bigGP"]
 	path = bigGP
-	url = https://github.com/cran/bigGP
+	url = https://github.com/paciorek/biggp
+	subdir = bigGP
 [submodule "climextRemes"]
 	path = climextRemes
 	url = https://bitbucket.org/lbl-cascade/climextremes-dev
