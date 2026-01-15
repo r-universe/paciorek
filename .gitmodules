@@ -10,3 +10,6 @@
 	path = climextRemes
 	url = https://bitbucket.org/lbl-cascade/climextremes-dev
 	subdir = climextRemes
+[submodule "nimbleQuad"]
+	path = nimbleQuad
+	url = https://github.com/cran/nimbleQuad
