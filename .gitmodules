@@ -13,3 +13,6 @@
 [submodule "nimbleQuad"]
 	path = nimbleQuad
 	url = https://github.com/cran/nimbleQuad
+[submodule "spectralGP"]
+	path = spectralGP
+	url = https://github.com/cran/spectralGP
